@@ -1,4 +1,7 @@
 # Covid19-Data-Exploration-Project
+
+Identified current Covid-19 restrictions upliftment, analyzed covid-crisis till date including vaccination update. Extracted and explored data collected by another reliable source. Cleaned and formatted the data using Excel.  Analyzed for getting insights using Structured Query Language. Designed interactive Tableau dashboard describing some key information about most affected countries, continents with most death rate, vaccine percent by population in the world. 
+
 ```
 --All Covid Death Data
 SELECT * 
